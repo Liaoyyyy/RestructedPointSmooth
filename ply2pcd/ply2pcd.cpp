@@ -27,6 +27,7 @@ using namespace pcl::console;
 
 int main()
 {
+	//为了上传到github做的修改
 	//pcl::PointCloud<pcl::PointXYZRGBA>::Ptr cloud(new pcl::PointCloud<pcl::PointXYZRGBA>());
 	////pcl::io::loadPCDFile("model1.pcd",*cloud);  
 
